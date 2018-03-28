@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="#FFFFFF"
 
-    tools:context="com.yash.myapp.landingpage.MainActivity">
+    tools:context="com.landingpage.MainActivity">
 
     <ImageView
         android:id="@+id/image"
